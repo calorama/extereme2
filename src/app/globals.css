@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	background-color: black !important;
+	color: #db2777 !important;
+	font-family: Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;
+}
+

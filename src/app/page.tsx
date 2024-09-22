@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col xl:flex-row 2xl:flex-row sm:flex-row md:flex-row lg:flex-row">
-      <div className="md:w-1/2 flex-col justify-start pl-6 text-gray-300 mb-10">
+      <div className="md:w-1/2 flex-col flex pl-6 text-gray-300 mb-10">
         <h1>@information</h1>
         <br/>
         <ReactTyped
